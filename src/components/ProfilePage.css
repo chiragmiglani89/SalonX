@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  form {
+    margin-top: 1rem;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
+  button {
+    margin-top: 1rem;
+  }
+  
